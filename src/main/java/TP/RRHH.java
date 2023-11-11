@@ -1,0 +1,18 @@
+package TP;
+
+import javafx.scene.shape.Shape3D;
+
+public class RRHH {
+
+    public void modificar(Tecnicos t){
+        //cargado, baja y modificacion de tecnicos
+
+    }
+
+    public static String reportes(){
+        //retorno de reportes que el sistema entrega sobre el estado de las cosas
+        
+        return null;
+    }
+
+}
