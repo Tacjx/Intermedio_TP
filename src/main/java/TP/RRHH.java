@@ -11,7 +11,7 @@ public class RRHH {
 
     public static String reportes(){
         //retorno de reportes que el sistema entrega sobre el estado de las cosas
-        
+
         return null;
     }
 
