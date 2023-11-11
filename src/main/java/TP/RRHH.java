@@ -1,10 +1,8 @@
 package TP;
 
-import javafx.scene.shape.Shape3D;
-
 public class RRHH {
 
-    public void modificar(Tecnicos t){
+    public void modificar(Tecnicos t,Sistema s){
 
         //cargado, baja y modificacion de tecnicos
 
