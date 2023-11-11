@@ -5,6 +5,7 @@ import javafx.scene.shape.Shape3D;
 public class RRHH {
 
     public void modificar(Tecnicos t){
+
         //cargado, baja y modificacion de tecnicos
 
     }
